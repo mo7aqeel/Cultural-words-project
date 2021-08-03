@@ -1,0 +1,50 @@
+<resources>
+    <array name="languages">
+        <item>العربية</item>
+        <item>English</item>
+    </array>
+
+    <string name="app_name">Cultural words game</string>
+    <string name="cultural_words">Cultural Words</string>
+    <string name="show_answer">Show answer</string>
+    <string name="answer_is">The answer is</string>
+    <string name="share">Share</string>
+    <string name="back">Back</string>
+    <string name="enter_title">Add title</string>
+    <string name="ask_friend">Ask friend</string>
+    <string name="share_with_friends">Share with your friends</string>
+    <string name="change_lang_text">Change language</string>
+
+
+    <string-array name="answers">
+        <item>Al-Aqal</item>
+        <item>Al-Farwa</item>
+        <item>Al-Sadu</item>
+        <item>Al-Henna</item>
+        <item>Al-Dalah</item>
+        <item>Al-Khaf</item>
+        <item>The Dagger</item>
+        <item>Al-Namarqah</item>
+        <item>Al-Qandil / Al-Siraaj</item>
+        <item>Lantern</item>
+        <item>Fez</item>
+        <item>Turban</item>
+        <item>Dishdasha</item>
+    </string-array>
+
+    <string-array name="answer_description">
+        <item>It is placed over the station / ghutra to fix it</item>
+        <item>Fleece lined, worn in winter to prevent cold</item>
+        <item>A type of traditional Bedouin weaving</item>
+        <item>It is used to dye hair and beard, and it is also used to beautify hands for women</item>
+        <item>The vessel used for serving coffee among Arabs</item>
+        <item>Made of leather, worn on the foot, it was famous in the old days of the Arabs</item>
+        <item>Small white weapon placed on the waist</item>
+        <item>Small pillow to recline on</item>
+        <item>The name of the instrument that was used for lighting in the past</item>
+        <item>A tool used for lighting and decoration</item>
+        <item>A red hat was popular in the Levant, Egypt and Morocco</item>
+        <item>Roll-over cap</item>
+        <item>An Arab dress that is widely worn in the Gulf countries</item>
+    </string-array>
+</resources>
